@@ -11,11 +11,11 @@
 
 MD_Parola P = MD_Parola(HARDWARE_TYPE, CS_PIN, MAX_DEVICES);
 
-#define FIREBASE_HOST "https://esp32-dedmo-default-rtdb.firebaseio.com/" 
-#define FIREBASE_AUTH "AIzaSyDtL41YZ7JA9QlX1Myvs0474dXZ_PeOAJI" 
+#define FIREBASE_HOST "URL" 
+#define FIREBASE_AUTH "API" 
 
 #define WIFI_SSID "TP_Link"
-#define WIFI_PASSWORD "aris564845"
+#define WIFI_PASSWORD "PASS"
 
 FirebaseData fbdo;
 
